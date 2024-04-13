@@ -1,0 +1,15 @@
+{
+  "name": "learn-tailwind",
+  "version": "1.0.0",
+  "description": "Thuc hanh",
+  "main": "index.js",
+  "scripts": {
+    "tailwind": "tailwind build -i ./src/tailwind.css -o ./public/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
